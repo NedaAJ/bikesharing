@@ -1,5 +1,5 @@
 # bikesharing
-You can view the dashboard on Tableau here: [NYC Citi Bike-Sharing Analysis Dashboard](https://public.tableau.com/views/NYCCitiBikesharingAnalysis/NYCCitiBikeAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+You can view the dashboard on Tableau here: [NYC Citi Bike-Sharing Analysis Dashboard](https://public.tableau.com/shared/FCQXP589C?:display_count=n&:origin=viz_share_link)
 
 ## Overview of Analysis
 The goal of this study is to come up with a plan that will convince investors to fund a bike-sharing scheme in Des Moines, Iowa. We were able to construct visuals based on the supplied statistics to illustrate average bike length trends and the links between gender and popular biking times. This series of visualization, in particular:
